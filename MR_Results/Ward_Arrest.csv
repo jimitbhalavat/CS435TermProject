@@ -1,4 +1,4 @@
-Ward, Arrest = True, Arrest = False,
+Ward, Arrest = True, Arrest = False,%True,%False,
 1.0     ,26119.0,102855.0,20.25,79.75,
 10.0    ,27265.0,87611.0,23.73,76.27,
 11.0    ,20444.0,71540.0,22.23,77.77,
